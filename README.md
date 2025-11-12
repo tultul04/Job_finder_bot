@@ -76,7 +76,8 @@ Genkit provides built-in tools for **prompt handling**, **flow orchestration**, 
    - Redirects to external job portals based on filters.
 
 ---
-### 1️⃣ Clone the Repository
+### Steps
+1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/job-finder.git
 cd job-finder

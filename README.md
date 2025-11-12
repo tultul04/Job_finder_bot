@@ -80,3 +80,19 @@ Genkit provides built-in tools for **prompt handling**, **flow orchestration**, 
 ```bash
 git clone https://github.com/yourusername/job-finder.git
 cd job-finder
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Add Environment Variables
+
+Create a .env.local file and include:
+
+OPENAI_API_KEY=your_openai_api_key
+FIREBASE_API_KEY=your_firebase_api_key
+
+4️⃣ Run the Development Server
+npm run dev
+
+5️⃣ Access the App
+
+Go to http://localhost:3000
